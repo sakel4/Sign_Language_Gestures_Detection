@@ -2,7 +2,7 @@
 
 ## [American Sign Language Dataset](https://www.kaggle.com/datasets/kapillondhe/american-sign-language)
 
-<img src="https://storage.googleapis.com/kaggle-datasets-images/1311225/2184214/2484880b961277f061e8b9c602ad896c/dataset-cover.png?t=2021-05-03-10-20-02" title="Iframe Example"></img>
+<img src="./dataset-cover.png" title="Iframe Example"></img>
 
 # Implementation
 
