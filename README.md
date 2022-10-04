@@ -1,9 +1,3 @@
-<style>
-    body{
-        background-color: white; 
-    }
-</style>
-
 # Sign_Language_Gestures_Detection
 
 ## [American Sign Language Dataset](https://www.kaggle.com/datasets/kapillondhe/american-sign-language)
